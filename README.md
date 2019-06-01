@@ -8,7 +8,7 @@ Why do 30% of patients miss their scheduled appointments?
 
 ### Hussein Sajid & Anna Zubova 
 
-[Jupyter Notebook](https://github.com/AnnaLara/mod_3_project_classification/blob/hussein/mod3/Index%20Part%201.ipynb)
+[Jupyter Notebook](https://github.com/AnnaLara/mod_3_project_classification/blob/master/Index_Part_1.ipynb)
 
 [Slides](https://docs.google.com/presentation/d/1f0TGXD4iM-Tzlq4XLiDlYQ1kuPP1vhl447IFY7emRrQ/edit?usp=sharing)
 
