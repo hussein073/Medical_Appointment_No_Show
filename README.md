@@ -6,7 +6,7 @@ Why do patients miss their scheduled appointments?
 
 ### Hussein Sajid & Anna Zubova 
 
-[Jupyter Notebook Part 1](https://github.com/AnnaLara/mod_3_project_classification/blob/master/Index_Part_1.ipynb)
+[Jupyter Notebook Part 1](https://github.com/hussein073/Medical_Appointment_No_Show/blob/master/Index_Part_1.ipynb)
 
 [Jupyter Notebook Part 2](https://github.com/AnnaLara/mod_3_project_classification/blob/master/index_part_2.ipynb)
 
